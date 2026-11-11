@@ -1,1 +1,7 @@
-{"project_id":"appgprj_6af44d78096c8191b2f84d2d548388e1","static":{"directory":"dist"}}
+{
+  "project_id": "appgprj_6af44d78096c8191b2f84d2d548388e1",
+  "d1": {
+    "binding": "DB"
+  },
+  "r2": null
+}
